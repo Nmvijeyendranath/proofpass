@@ -1,0 +1,12 @@
+{
+  "name": "ProofPass — Portable Skill Passport",
+  "short_name": "ProofPass",
+  "description": "A privacy-first skill passport frontend demonstration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fc",
+  "theme_color": "#172743",
+  "icons": [
+    { "src": "/proofpass-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

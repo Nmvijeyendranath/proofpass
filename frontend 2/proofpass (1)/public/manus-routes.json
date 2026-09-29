@@ -1,0 +1,17 @@
+{
+  "routes": [
+    { "path": "/", "title": "Student overview" },
+    { "path": "/dashboard", "title": "Student overview" },
+    { "path": "/guide", "title": "How to use ProofPass" },
+    { "path": "/journey", "title": "ProofPass journey" },
+    { "path": "/wallet", "title": "Wallet & credentials" },
+    { "path": "/insights", "title": "Skill insights" },
+    { "path": "/roadmap", "title": "Learning roadmap" },
+    { "path": "/sharing", "title": "Proof sharing" },
+    { "path": "/employer", "title": "Recruiter portal" },
+    { "path": "/about", "title": "About ProofPass" },
+    { "path": "/privacy", "title": "Privacy" },
+    { "path": "/terms", "title": "Terms" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
